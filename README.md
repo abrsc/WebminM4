@@ -42,13 +42,13 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache
 - L'usuari techno no podrà fer login després del dia 31-03-2025.
   ![image](https://github.com/user-attachments/assets/13cbd3f6-da25-4165-9d69-7c354cc3a744)
 
-- Comproveu que els usuaris poden iniciar sessió.
+- Comproveu que els usuaris poden iniciar sessió. <br>
   ![image](https://github.com/user-attachments/assets/d68a3d7a-ce28-4770-8466-8762328d61fa)
 
 - Canvia la data del sistema (utilitzant webmin) i comprova que techno no pot iniciar sessió si estem a dia 01-04-2025.
   ![image](https://github.com/user-attachments/assets/6368e592-868c-4930-b646-21a3e3d6ed6b)
   ![image](https://github.com/user-attachments/assets/a2b2d808-e997-4f64-87a5-b9b9c8b02775)
-  ![Uploading image.png…]()
+  ![image](https://github.com/user-attachments/assets/0528475c-2cc0-481a-8953-1941bb585703)
 
 
 
