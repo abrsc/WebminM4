@@ -21,9 +21,19 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache
 **Fer tot des de webmin**
 
 - Has de crear dos usuaris bakalao_X i techno_X on (X és el vostre cognom).
+  ![image](https://github.com/user-attachments/assets/08e96e9b-706f-42be-a1e6-cf033a7b6cdf)
+  ![image](https://github.com/user-attachments/assets/a51537f4-59bd-4f75-9c9b-26874756a7d5)
+  
 - Els usuaris et passaran el hash de la seva contrasenya, no la contrasenya real. (podeu fer servir openssl).
+  ![image](https://github.com/user-attachments/assets/201192f4-7af2-49eb-91ab-3b69c0bdad17)
+  ![image](https://github.com/user-attachments/assets/46289de0-5284-47a2-bbcc-26933cab5508)
+  ![image](https://github.com/user-attachments/assets/b2bd7a51-f38d-44a2-899d-9540c9b46732)
+
 - Cada usuari tindrà un directori a home igual al seu nom d'usuari.
+  ![image](https://github.com/user-attachments/assets/cd1c0bfd-6c2d-4e8c-829b-c2f45dfe0363)
+
 - Utilitzaran bash com a shell.
+  
 - Els usuaris estaran dins del grup que tingui el seu mateix nom i dins del grup usuaris_empresa.
 - L'usuari techno no podrà fer login després del dia 31-03-2025.
 - Comproveu que els usuaris poden iniciar sessió.
