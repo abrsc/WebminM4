@@ -33,11 +33,24 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache
   ![image](https://github.com/user-attachments/assets/cd1c0bfd-6c2d-4e8c-829b-c2f45dfe0363)
 
 - Utilitzaran bash com a shell.
-  
+  ![image](https://github.com/user-attachments/assets/17223d95-cf1e-4427-953a-4a3f6414e228)
+  ![image](https://github.com/user-attachments/assets/4a1896e9-6db3-450b-b1e7-d072883b96f6)
+
 - Els usuaris estaran dins del grup que tingui el seu mateix nom i dins del grup usuaris_empresa.
+  ![image](https://github.com/user-attachments/assets/f102af6a-f8e0-4dd5-9742-7886f56e7f28)
+
 - L'usuari techno no podrà fer login després del dia 31-03-2025.
+  ![image](https://github.com/user-attachments/assets/13cbd3f6-da25-4165-9d69-7c354cc3a744)
+
 - Comproveu que els usuaris poden iniciar sessió.
+  ![image](https://github.com/user-attachments/assets/d68a3d7a-ce28-4770-8466-8762328d61fa)
+
 - Canvia la data del sistema (utilitzant webmin) i comprova que techno no pot iniciar sessió si estem a dia 01-04-2025.
+  ![image](https://github.com/user-attachments/assets/6368e592-868c-4930-b646-21a3e3d6ed6b)
+  ![image](https://github.com/user-attachments/assets/a2b2d808-e997-4f64-87a5-b9b9c8b02775)
+  ![Uploading image.png…]()
+
+
 
 ## 2.- Programar tasques
 
