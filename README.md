@@ -98,11 +98,21 @@ Activa les quotes de disc pels usuaris amb la comanda:
 ```
 sudo apt install quota quotatool
 ```
+![image](https://github.com/user-attachments/assets/b41088b0-10ef-40be-9d46-9891104d1750)
 
 - Utilitza webmin perquè l'usuari bakalao_X no pugui tenir més de 2 MB d'informació al disc.
+  ![image](https://github.com/user-attachments/assets/7fb63303-a67b-4d25-a42c-3289c19d6ff9)
+  ![image](https://github.com/user-attachments/assets/3a8cf31a-e8ea-413c-aa07-ca2bd3d4563f)
+
 - Comprova que el límit de la quota funciona.
+  * El limit està ficat correctament, però no s'actualitza els blocs quan es crea nou fitxers.
+  ![image](https://github.com/user-attachments/assets/a8754ea2-5214-4f71-bdfb-131041346c15)
+  
 - Utilitza webmin perquè l'usuari techno no pugui tenir més de 10 fitxers al disc.
+  ![image](https://github.com/user-attachments/assets/9657f417-8947-4106-91cc-962827b9c20d)
+
 - Comprova que el límit de la quota funciona.
+  ![image](https://github.com/user-attachments/assets/df58be12-9161-4d7d-b535-30933e7efd86)
 
 ## 6.- Còpies de seguretat
 
