@@ -61,11 +61,26 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
 ## 3.- Instal·lació de software
 
 - Utilitza webmin per mostrar quins paquets de software es podrien actualitzar.
-- Des de webmin actualitza un paquet.
-- Utilitza webmin per instal·lar un joc de apt.
-- Utilitza webmin per instal·lar gimp de apt.
-- Utilitza webmin per desinatl·lar el joc que heu instal·lat abans.
+  ![image](https://github.com/user-attachments/assets/d592942e-4115-44c3-89db-c335685dfc22)
 
+- Des de webmin actualitza un paquet.
+  ![image](https://github.com/user-attachments/assets/9139c343-0d99-4deb-94d0-5068fed83504)
+  ![image](https://github.com/user-attachments/assets/ef84924a-581c-4719-abe5-b750dbfe757e)
+
+- Utilitza webmin per instal·lar un joc de apt.
+  ![image](https://github.com/user-attachments/assets/198a64b4-b839-401e-93a7-e174a7f17403)
+  ![image](https://github.com/user-attachments/assets/1dadfa95-321d-4871-b620-0db7b6f09ba0)
+  
+- Utilitza webmin per instal·lar gimp de apt.
+  ![image](https://github.com/user-attachments/assets/9792d472-e8c0-4453-8896-93353cf9268e)
+  ![image](https://github.com/user-attachments/assets/00bfb3c5-afc6-46fe-9658-a6479206692d)
+
+- Utilitza webmin per desinatl·lar el joc que heu instal·lat abans.
+  ![image](https://github.com/user-attachments/assets/ab2446f4-e13d-439a-ab31-bed2500b517d)
+  ![image](https://github.com/user-attachments/assets/f1fcbdb9-8570-4fe0-ae12-00b3ad25032c)
+  ![image](https://github.com/user-attachments/assets/d413c7f9-e252-4d66-bd36-7a743bcc3a13)
+
+  
 ## 4.- Serveis
 
 - Utilitza webmin per mostrar els serveis que s'inicien amb el sistema.
