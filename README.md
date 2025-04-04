@@ -105,14 +105,13 @@ sudo apt install quota quotatool
   ![image](https://github.com/user-attachments/assets/3a8cf31a-e8ea-413c-aa07-ca2bd3d4563f)
 
 - Comprova que el límit de la quota funciona.
-  * El limit està ficat correctament, però no s'actualitza els blocs quan es crea nou fitxers.
-  ![image](https://github.com/user-attachments/assets/a8754ea2-5214-4f71-bdfb-131041346c15)
+  ![image](https://github.com/user-attachments/assets/044581d3-3cca-4faa-bdf3-5a5b1e1bb872)
   
 - Utilitza webmin perquè l'usuari techno no pugui tenir més de 10 fitxers al disc.
   ![image](https://github.com/user-attachments/assets/9657f417-8947-4106-91cc-962827b9c20d)
 
 - Comprova que el límit de la quota funciona.
-  ![image](https://github.com/user-attachments/assets/044581d3-3cca-4faa-bdf3-5a5b1e1bb872)
+  
 
 ## 6.- Còpies de seguretat
 
