@@ -112,7 +112,7 @@ sudo apt install quota quotatool
   ![image](https://github.com/user-attachments/assets/9657f417-8947-4106-91cc-962827b9c20d)
 
 - Comprova que el límit de la quota funciona.
-  ![image](https://github.com/user-attachments/assets/df58be12-9161-4d7d-b535-30933e7efd86)
+  ![image](https://github.com/user-attachments/assets/044581d3-3cca-4faa-bdf3-5a5b1e1bb872)
 
 ## 6.- Còpies de seguretat
 
