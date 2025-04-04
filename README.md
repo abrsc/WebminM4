@@ -55,8 +55,12 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
 ## 2.- Programar tasques
 
 - Programa una tasca que neteja els paquets de Linux que ja no s'utilitzen una vegada al mes.
+  ![Captura1](https://github.com/user-attachments/assets/de20330b-c3bf-42aa-9784-5dc3f75e5cff)
 - Programa una tasca diaria que apaga l'ordinador a les 14:00.
+  ![Captura2](https://github.com/user-attachments/assets/318fd00c-4986-438b-9e56-09f0e112a6fb)
 - Comprova que funcionen (canvia dia i hora del sistema mitjançant webmin).
+  ![Captura3](https://github.com/user-attachments/assets/0b816c68-883f-42c5-91bb-39108ddc5d82)
+
   
 ## 3.- Instal·lació de software
 
