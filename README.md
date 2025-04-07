@@ -4,13 +4,13 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
 # Webmin
 
 ## Índex
- [1.- Crear i modificar usuaris](#1.--Crear-i-modificar-usuaris)
- [2.- Programar tasques](2.--Programar-tasques)
- [3.- Instal·lació de software](3.--Instal·lació-de-software)
- [4.- Serveis](4.--Serveis)
- [5.- Quotes de disc](5.--Quotes-de-disc)
- [6.- Còpies de seguretat](6.--Còpies-de-seguretat)
- [7.- Compartició](7.--Compartició)
+ * [1.- Crear i modificar usuaris](#1.--Crear-i-modificar-usuaris)
+ * [2.- Programar tasques](2.--Programar-tasques)
+ * [3.- Instal·lació de software](3.--Instal·lació-de-software)
+ * [4.- Serveis](4.--Serveis)
+ * [5.- Quotes de disc](5.--Quotes-de-disc)
+ * [6.- Còpies de seguretat](6.--Còpies-de-seguretat)
+ * [7.- Compartició](7.--Compartició)
 
 ## 1.- Crear i modificar usuaris
 
