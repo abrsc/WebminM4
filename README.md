@@ -107,7 +107,8 @@ sudo apt install quota quotatool
 ![image](https://github.com/user-attachments/assets/b41088b0-10ef-40be-9d46-9891104d1750)
 
 - Utilitza webmin perquè l'usuari bakalao_X no pugui tenir més de 2 MB d'informació al disc.
-  ![image](https://github.com/user-attachments/assets/7fb63303-a67b-4d25-a42c-3289c19d6ff9)
+  ![image](https://github.com/user-attachments/assets/8461c630-6e28-410c-8646-e3f42c0e11e2)
+  ![image](https://github.com/user-attachments/assets/1274aca0-f075-43ed-b7fb-7fff2715036c)
   ![image](https://github.com/user-attachments/assets/3a8cf31a-e8ea-413c-aa07-ca2bd3d4563f)
 
 - Comprova que el límit de la quota funciona.
