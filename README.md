@@ -144,7 +144,7 @@ sudo apt install quota quotatool
   ![image](https://github.com/user-attachments/assets/bc5ea726-a69c-45b2-93e6-cfd315f01b51)
   ![image](https://github.com/user-attachments/assets/6989b76b-2718-431d-91e7-4ba37f20af49)
 
-- Comprovar des de Windows que aquests recursos funcionen.
+- Comprovar des de Windows que aquests recursos funcionen. <br>
   Area Public:
   ![image](https://github.com/user-attachments/assets/9dc07f63-1b6e-47e5-9b83-fe82aab5b0f1)
   ![image](https://github.com/user-attachments/assets/336172eb-e2cb-4d9c-929d-3c99e815bb37)
