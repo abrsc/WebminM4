@@ -127,21 +127,21 @@ sudo apt install quota quotatool
 
 <a id="7"></a>
 ## 7.- Compartició
-
-![image](https://github.com/user-attachments/assets/fd0f8f82-e621-4112-9349-ca23bd4e0c55)
+- Primer pas, convertir als usuaris a usuaris de Samba.
+  ![image](https://github.com/user-attachments/assets/46e86ce7-0284-48f3-9b1f-6506b470f56a)
+  ![image](https://github.com/user-attachments/assets/fd0f8f82-e621-4112-9349-ca23bd4e0c55)
 
 - Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "area_public_X" per a usuaris sense autenticar en forma de lectura i escriptura.
-  ![image](https://github.com/user-attachments/assets/a5eb3264-93f1-45cc-9a1c-2af61b0b4851)
+  ![image](https://github.com/user-attachments/assets/0cd24091-86d7-45ad-97d1-0223af27784a)
   ![image](https://github.com/user-attachments/assets/6c90d1b4-a563-402a-ad32-5d624627994f)
-  ![image](https://github.com/user-attachments/assets/ff2ddd38-e24f-4baf-b642-be585fe1d16b)
+  ![image](https://github.com/user-attachments/assets/3705f073-4707-4dfa-8055-7a1ac4c102a2)
   ![image](https://github.com/user-attachments/assets/c9492187-a667-46ec-88de-dad3be94aa50)
 
-- Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "pontaeri_privat_X" per a usuaris _X i techno només de lectura.
-  ![image](https://github.com/user-attachments/assets/d67ba6f3-d454-4dae-886d-ec749fc93da9)
+- Crea un recurs a webmin que, utilitzant samba, comparteixi una carpeta anomenada "pontaeri_privat_X" per a usuaris _X i techno només de lectura. <br>
+  ![image](https://github.com/user-attachments/assets/cd7d1ed8-d85e-4b38-824a-54c2d9b0e7bc)
   ![image](https://github.com/user-attachments/assets/0e32da8f-20aa-4c60-9d99-3fce9e4c8340)
-  ![image](https://github.com/user-attachments/assets/1fe5e07f-b5e5-497d-a39f-0c48fc168e9f)
-  ![image](https://github.com/user-attachments/assets/4e3a2359-4e33-4049-9269-7217a5f068c4)
-  ![image](https://github.com/user-attachments/assets/a2c40ad8-9384-42ee-b239-c3a87b1e1b36)
+  ![image](https://github.com/user-attachments/assets/b907cc2e-b898-4436-9b70-d417a7174d90)
+  ![image](https://github.com/user-attachments/assets/bc5ea726-a69c-45b2-93e6-cfd315f01b51)
 
 - Comprovar des de Windows que aquests recursos funcionen.
   ![image](https://github.com/user-attachments/assets/9dc07f63-1b6e-47e5-9b83-fe82aab5b0f1)
