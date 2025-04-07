@@ -1,20 +1,16 @@
 # WebminM4
 Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
 
-# Utilitzant webmin per administrar el servidor
+# Webmin
 
-- Entregueu link a un repositori **públic** (un link per alumne) de Github on feu les següents tasques.
-- Expliqueu el que feu amb text i captures.
-- **Fer tot des de webmin**
-- Rúbrica:
-  - 2 punts - Estructura del document (portada, índex, captures correctes, text ben formatat...).
-  - 1 punt - Exercici 1.
-  - 1 punt - Exercici 2.
-  - 1 punt - Exercici 3.
-  - 1 punt - Exercici 4.
-  - 1.5 punt - Exercici 5.
-  - 1.5 punt - Exercici 6.
-  - 1 punt - Exercici 7.
+## Índex
+ [1.- Crear i modificar usuaris](#1.--Crear-i-modificar-usuaris)
+ [2.- Programar tasques](2.--Programar-tasques)
+ [3.- Instal·lació de software](3.--Instal·lació-de-software)
+ [4.- Serveis](4.--Serveis)
+ [5.- Quotes de disc](5.--Quotes-de-disc)
+ [6.- Còpies de seguretat](6.--Còpies-de-seguretat)
+ [7.- Compartició](7.--Compartició)
 
 ## 1.- Crear i modificar usuaris
 
