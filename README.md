@@ -12,8 +12,8 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
  * [6.- Còpies de seguretat](#6)
  * [7.- Compartició](#7)
 
-
-## <a id="1">1.- Crear i modificar usuaris</a>
+<a id="1"></a>
+## 1.- Crear i modificar usuaris
 
 **Fer tot des de webmin**
 
