@@ -19,6 +19,7 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
 **Fer tot des de webmin**
 
 - Has de crear dos usuaris bakalao_X i techno_X on (X és el vostre cognom).
+  ![image](https://github.com/user-attachments/assets/428d5704-5b4c-4eed-848e-bebe6fcd5c85)
   ![image](https://github.com/user-attachments/assets/08e96e9b-706f-42be-a1e6-cf033a7b6cdf)
   ![image](https://github.com/user-attachments/assets/a51537f4-59bd-4f75-9c9b-26874756a7d5)
   
@@ -30,11 +31,14 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
 - Cada usuari tindrà un directori a home igual al seu nom d'usuari.
   ![image](https://github.com/user-attachments/assets/cd1c0bfd-6c2d-4e8c-829b-c2f45dfe0363)
 
-- Utilitzaran bash com a shell.
+- Utilitzaran bash com a shell. <br>
+  Por la dreta a shell, seleccionar "bin/bash".
   ![image](https://github.com/user-attachments/assets/17223d95-cf1e-4427-953a-4a3f6414e228)
   ![image](https://github.com/user-attachments/assets/4a1896e9-6db3-450b-b1e7-d072883b96f6)
 
 - Els usuaris estaran dins del grup que tingui el seu mateix nom i dins del grup usuaris_empresa.
+  ![image](https://github.com/user-attachments/assets/5cea2281-3d59-4c11-843a-fef69848eebf)
+  ![image](https://github.com/user-attachments/assets/4d983796-32dc-4676-a451-38886da213c8)
   ![image](https://github.com/user-attachments/assets/f102af6a-f8e0-4dd5-9742-7886f56e7f28)
 
 - L'usuari techno no podrà fer login després del dia 31-03-2025.
