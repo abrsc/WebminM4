@@ -142,14 +142,19 @@ sudo apt install quota quotatool
   ![image](https://github.com/user-attachments/assets/0e32da8f-20aa-4c60-9d99-3fce9e4c8340)
   ![image](https://github.com/user-attachments/assets/b907cc2e-b898-4436-9b70-d417a7174d90)
   ![image](https://github.com/user-attachments/assets/bc5ea726-a69c-45b2-93e6-cfd315f01b51)
+  ![image](https://github.com/user-attachments/assets/6989b76b-2718-431d-91e7-4ba37f20af49)
 
 - Comprovar des de Windows que aquests recursos funcionen.
+  Area Public:
   ![image](https://github.com/user-attachments/assets/9dc07f63-1b6e-47e5-9b83-fe82aab5b0f1)
   ![image](https://github.com/user-attachments/assets/336172eb-e2cb-4d9c-929d-3c99e815bb37)
-  
-  ![image](https://github.com/user-attachments/assets/20e61d81-9220-4d91-94d9-fb8fb13f1bca)
 
+  Pontaeri Privat: <br>
+  Sessió com bakalao:
+  ![image](https://github.com/user-attachments/assets/710c8a63-209b-49ae-896e-c26d70087c3f)
 
+  Sessió com techno:
+  ![image](https://github.com/user-attachments/assets/7608664d-48e0-4074-a1ae-31d18fffdce7)
 
 
 # Grups:
