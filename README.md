@@ -12,9 +12,9 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
  * [6.- Còpies de seguretat](#6)
  * [7.- Compartició](#7)
 
-<a id="1"></a>
-## 1.- Crear i modificar usuaris 
 
+## 1.- Crear i modificar usuaris 
+<a id="1"></a>
 **Fer tot des de webmin**
 
 - Has de crear dos usuaris bakalao_X i techno_X on (X és el vostre cognom).
