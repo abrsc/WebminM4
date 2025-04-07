@@ -63,7 +63,7 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
     
 - Programa una tasca diaria que apaga l'ordinador a les 14:00.
     
-    [](https://github.com/user-attachments/assets/318fd00c-4986-438b-9e56-09f0e112a6fb)
+    ![](https://github.com/user-attachments/assets/318fd00c-4986-438b-9e56-09f0e112a6fb)
     
 - Comprova que funcionen (canvia dia i hora del sistema mitjançant webmin).
     
