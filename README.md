@@ -2,7 +2,7 @@
 Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
 
 # Webmin
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Webmin_Logo.svg/2048px-Webmin_Logo.svg.png" alt="webmin" width="200"/>
 ## Índex
  * [1.- Crear i modificar usuaris](#1)
  * [2.- Programar tasques](#2)
