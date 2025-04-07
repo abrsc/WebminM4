@@ -1,5 +1,5 @@
 # WebminM4
-Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
+Un repositori pel Mòdul 4 de SMX ; amb Daniel Agache.
 
 # Webmin
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Webmin_Logo.svg/2048px-Webmin_Logo.svg.png" alt="webmin" width="200"/>
