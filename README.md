@@ -56,11 +56,26 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
 ## 2.- Programar tasques
 
 - Programa una tasca que neteja els paquets de Linux que ja no s'utilitzen una vegada al mes.
-  ![Captura1](https://github.com/user-attachments/assets/de20330b-c3bf-42aa-9784-5dc3f75e5cff)
+    
+    ![image.png](image.png)
+    
+    ![image.png](image%201.png)
+    
 - Programa una tasca diaria que apaga l'ordinador a les 14:00.
-  ![Captura2](https://github.com/user-attachments/assets/318fd00c-4986-438b-9e56-09f0e112a6fb)
+    
+    [](https://github.com/user-attachments/assets/318fd00c-4986-438b-9e56-09f0e112a6fb)
+    
 - Comprova que funcionen (canvia dia i hora del sistema mitjançant webmin).
-  ![Captura3](https://github.com/user-attachments/assets/0b816c68-883f-42c5-91bb-39108ddc5d82)
+    
+    ![image.png](image%202.png)
+    
+    ![image.png](image%203.png)
+    
+    ![image.png](image%204.png)
+    
+    ![image.png](image%205.png)
+    
+    ![image.png](image%206.png)
 
 <a id="3"></a>
 ## 3.- Instal·lació de software
@@ -89,12 +104,32 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
 ## 4.- Serveis
 
 - Utilitza webmin per mostrar els serveis que s'inicien amb el sistema.
+    
+    ![image.png](image%207.png)
+    
 - Utilitza webmin per mostrar els serveis que estan actius.
+    
+    ![image.png](image%208.png)
+    
 - Utilitza webmin per mostrar l'estat del servidor Apache.
+    
+    ![image.png](image%209.png)
+    
 - Utilitza webmin per aturar Apache.
+    
+    ![image.png](image%2010.png)
+    
 - Utilitza webmin per mostrar l'estat del servidor Apache apagat.
+    
+    ![image.png](image%2011.png)
+    
 - Utilitza webmin per reiniciar Apache.
+    
+    ![image.png](image%2012.png)
+    
 - Utilitza webmin per mostrar l'estat del servidor Apache reiniciat.
+    
+    ![image.png](image%2013.png)
 
 <a id="5"></a>
 ## 5.- Quotes de disc
@@ -124,11 +159,42 @@ sudo apt install quota quotatool
 ## 6.- Còpies de seguretat
 
 - Utilitzant el mòdul de Webmin Filesystem Backup fes una còpia de seguretat del directori /home al directori /backups (l'haureu de crear si no existeix).
+    
+    ![image.png](image%2014.png)
+    
+    ![image.png](image%2015.png)
+    
+    ![image.png](image%2016.png)
+    
+    ![image.png](image%2017.png)
+    
 - Modifica alguns fitxers de /home.
+    
+    ![image.png](image%2018.png)
+    
 - Recupera la còpia de seguretat.
+    
+    ![image.png](image%2019.png)
+    
+    ![image.png](image%2020.png)
+    
+    ![image.png](image%2021.png)
+    
+    ![image.png](image%2022.png)
+    
 - Comprova que els fitxers de /home són els correctes.
-- Programa una còpia de seguretat de /home/bakalao_X per els divendres a les 21:00.
+    
+    ![image.png](image%2023.png)
+    
+- Programa una còpia de seguretat de /home/bakalao_X per els divendres a les 21 :00.
+    
+    ![image.png](image%2024.png)
+    
+    ![image.png](image%2025.png)
+    
 - Esborra la còpia de seguretat programada anteriorment.
+    
+    ![image.png](image%2026.png)
 
 <a id="7"></a>
 ## 7.- Compartició
