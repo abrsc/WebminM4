@@ -4,15 +4,16 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
 # Webmin
 
 ## Índex
- * [1.- Crear i modificar usuaris](#1.--Crear-i-modificar-usuaris)
- * [2.- Programar tasques](2.--Programar-tasques)
- * [3.- Instal·lació de software](3.--Instal·lació-de-software)
- * [4.- Serveis](4.--Serveis)
- * [5.- Quotes de disc](5.--Quotes-de-disc)
- * [6.- Còpies de seguretat](6.--Còpies-de-seguretat)
- * [7.- Compartició](7.--Compartició)
+ * [1.- Crear i modificar usuaris](#1)
+ * [2.- Programar tasques](#2)
+ * [3.- Instal·lació de software](#3)
+ * [4.- Serveis](#4)
+ * [5.- Quotes de disc](#5)
+ * [6.- Còpies de seguretat](#6)
+ * [7.- Compartició](#7)
 
-## 1.- Crear i modificar usuaris
+<a id="1"></a>
+## 1.- Crear i modificar usuaris 
 
 **Fer tot des de webmin**
 
@@ -46,8 +47,7 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
   ![image](https://github.com/user-attachments/assets/a2b2d808-e997-4f64-87a5-b9b9c8b02775)
   ![image](https://github.com/user-attachments/assets/0528475c-2cc0-481a-8953-1941bb585703)
 
-
-
+<a id="2"></a>
 ## 2.- Programar tasques
 
 - Programa una tasca que neteja els paquets de Linux que ja no s'utilitzen una vegada al mes.
@@ -57,7 +57,7 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
 - Comprova que funcionen (canvia dia i hora del sistema mitjançant webmin).
   ![Captura3](https://github.com/user-attachments/assets/0b816c68-883f-42c5-91bb-39108ddc5d82)
 
-  
+<a id="3"></a>
 ## 3.- Instal·lació de software
 
 - Utilitza webmin per mostrar quins paquets de software es podrien actualitzar.
@@ -80,7 +80,7 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
   ![image](https://github.com/user-attachments/assets/f1fcbdb9-8570-4fe0-ae12-00b3ad25032c)
   ![image](https://github.com/user-attachments/assets/d413c7f9-e252-4d66-bd36-7a743bcc3a13)
 
-  
+<a id="4"></a>
 ## 4.- Serveis
 
 - Utilitza webmin per mostrar els serveis que s'inicien amb el sistema.
@@ -91,6 +91,7 @@ Un repositori pel Mòdul 4 de SMX ; en colaboració amb el gran Dani Agache.
 - Utilitza webmin per reiniciar Apache.
 - Utilitza webmin per mostrar l'estat del servidor Apache reiniciat.
 
+<a id="5"></a>
 ## 5.- Quotes de disc
 
 Activa les quotes de disc pels usuaris amb la comanda: 
@@ -113,6 +114,7 @@ sudo apt install quota quotatool
 - Comprova que el límit de la quota funciona.
   ![image](https://github.com/user-attachments/assets/df58be12-9161-4d7d-b535-30933e7efd86)
 
+<a id="6"></a>
 ## 6.- Còpies de seguretat
 
 - Utilitzant el mòdul de Webmin Filesystem Backup fes una còpia de seguretat del directori /home al directori /backups (l'haureu de crear si no existeix).
@@ -122,6 +124,7 @@ sudo apt install quota quotatool
 - Programa una còpia de seguretat de /home/bakalao_X per els divendres a les 21:00.
 - Esborra la còpia de seguretat programada anteriorment.
 
+<a id="7"></a>
 ## 7.- Compartició
 
 ![image](https://github.com/user-attachments/assets/fd0f8f82-e621-4112-9349-ca23bd4e0c55)
